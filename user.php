@@ -4,6 +4,7 @@
 	<title>Add User</title>
 </head>
 <body>
+    <a href="/list.php">go to list</a>
 	<h1>Add User</h1>
 	<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 		<label for="username">Username:</label>

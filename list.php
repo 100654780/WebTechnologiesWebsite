@@ -1,3 +1,4 @@
+<a href="/user.php">go to user</a>
 <?php
 // Replace with your actual database credentials
 $server = 'uod-web-technologies-website.database.windows.net';
